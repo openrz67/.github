@@ -18,7 +18,7 @@ Open hardware and companion apps built around a Bluetooth ESP32-C3 trigger.
 
 | Project | Description | Status |
 |---|---|---|
-| [Trigger](https://github.com/openrz67/openrz67-trigger) | Firmware, KiCad PCB and enclosure | Rev 1 built and working, rev 2 in design |
+| [Trigger](https://github.com/openrz67/openrz67-trigger) | Firmware, KiCad PCB and enclosure | Rev 2 built and verified (September 2026) |
 | [Android app](https://github.com/openrz67/openrz67-android) | Shutter, bulb and countdown controls over BLE | v1.1 released |
 | [Project website](https://openrz67.github.io) | Build details, protocol and getting started | Live |
 
