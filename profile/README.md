@@ -19,8 +19,8 @@ Open hardware and companion apps built around a Bluetooth ESP32-C3 trigger.
 | Project | Description | Status |
 |---|---|---|
 | [Trigger](https://github.com/openrz67/openrz67-trigger) | Firmware, KiCad PCB and enclosure | Rev 2 built and verified (September 2026) |
-| [Android app](https://github.com/openrz67/openrz67-android) | Shutter, bulb and countdown controls over BLE | v1.1 released |
-| [iOS app](https://github.com/openrz67/openrz67-ios) | The same controls for iPhone, in SwiftUI | In progress, build from source |
+| [Android app](https://github.com/openrz67/openrz67-android) | Shutter, bulb and countdown controls over BLE | v1.1, APK on GitHub; not on Google Play |
+| [iOS app](https://github.com/openrz67/openrz67-ios) | The same controls for iPhone, in SwiftUI | Works, build from source; not in the App Store |
 | [Project website](https://openrz67.github.io) | Build details, protocol and getting started | Live |
 
 Everything is MIT licensed and not affiliated with Mamiya.
